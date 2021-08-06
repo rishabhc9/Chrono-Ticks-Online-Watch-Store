@@ -1,0 +1,7 @@
+Home Page: index.php
+
+Database Name: online
+Tables: products.sql
+		users.sql
+User Accounts:
+admin@example.com		admin

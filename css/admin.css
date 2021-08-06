@@ -1,0 +1,71 @@
+body{
+	background-image: url("../res/background/bg.png");
+	background-attachment: fixed;
+	background-size: cover;
+	color: white;	
+}
+
+#header{
+position: relative;
+top: 0px;
+font-family:Righteous, sans-serif;
+letter-spacing:2.4px;
+font-size: 60px;
+padding-left: 30%;
+}
+
+#website{
+width:800px;
+height:150px;
+background-color: #EF5D80;
+border-radius: 10px;
+font-family: Righteous, sans-serif;
+font-size:40px;
+text-align:center;
+margin-top: 20px;
+margin-bottom:20px;
+margin-left: 170px;
+
+}
+
+#inventory{
+width:800px;
+height:150px;
+background-color: #EF5D80;
+border-radius: 15px;
+font-family: Righteous, sans-serif;
+font-size:40px;
+text-align:center;
+margin-top: 20px;
+margin-bottom:20px;
+margin-left: 170px;
+
+}
+
+p{
+	color: #f9dfdc;
+}
+
+/* LOGOUT BUTTON STARTS */
+#logoutButton{
+	background-color: #EF5D80;
+	min-width: 100px;
+	border: none;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	color: #FFF;
+	min-height: 15px;
+	font: 12px/15px Arial, Helvetica, sans-serif;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.26);
+	border-radius: 3px;
+}
+#logoutButton:hover{
+	background-color:#f9dfdc;
+	position:relative;
+	top:5px;
+}
+
+/* LOGOUT BUTTON ENDS */
